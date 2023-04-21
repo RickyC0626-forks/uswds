@@ -110,7 +110,7 @@
     "jsdoc": "^3.6.5",
     "jsdom": "^16.2.2",
     "jsdom-global": "^3.0.2",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "node-notifier": "^6.0.0",
     "normalize.css": "^8.0.1",
     "nswatch": "^0.2.0",
